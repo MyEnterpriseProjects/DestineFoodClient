@@ -1,2 +1,0 @@
-package hunter;
-parcelable Student;
